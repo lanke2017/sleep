@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # Filename: class_init.py
 # coding=utf-8
+# parse ith hour data
 class ParseCHE:
     def __init__(self, i):
         self.__spo2Rs__ = []

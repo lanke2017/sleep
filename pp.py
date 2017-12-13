@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # Filename: class_init.py
 # coding=utf-8
+# parse all CHE file
 class ParseCHE:
     def __init__(self):
         self.__spo2Rs__ = []

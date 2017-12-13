@@ -6,6 +6,7 @@ from biosppy.signals import ecg as eecg
 from biosppy.signals import tools as st
 
 
+# add rr detection
 class ParseCHE:
     def __init__(self):
         self.__spo2Rs__ = []
